@@ -30,7 +30,7 @@ h1{
 .button{
     text-decoration: none;
     color: white;
-    background-image: linear-gradient(orange , rgb(238, 75, 46));
+    background-image: linear-gradient(rgb(240, 71, 41) , rgb(238, 75, 46));
     padding: 10px 40px ;
     border-radius: 5px;
     font-weight: 700;
@@ -127,7 +127,7 @@ footer{
     font-size: 30px;
 }
 .my-portfolio{
-    margin-top: 200px;
+    margin-top: 40px;
     background-image: url(images/wallpaper2you_190070.jpg);
     background-size: contain;
 }
@@ -164,5 +164,18 @@ footer{
     font-size: 15px;
     padding-left: 80px;
     line-height: 10px;
+    padding-bottom: 40px;
+}
+.code{
+    margin-right: 10%;
+    margin-left: 6%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-size: 150px;
+}
+.side2 img{
+    width: 80%;
+    padding-left: 33px;
     padding-bottom: 40px;
 }
