@@ -116,12 +116,53 @@ footer{
     color: rgb(245, 55, 55);
 }
 .cap{
-    padding-top: 2%;
-    padding-bottom: 2%;
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+    line-height: 10px;
 }
 #six{
     text-align: center;
 }
 .cap p{
     font-size: 30px;
+}
+.my-portfolio{
+    margin-top: 200px;
+    background-image: url(images/wallpaper2you_190070.jpg);
+    background-size: contain;
+}
+.portfolio-pic{
+    margin-top: 80px;
+    margin-left: 200px;
+    padding-left: 180px;
+
+}
+.intro{
+    color: white;
+    margin-left: 100px;
+    line-height: 25px;
+    padding-top: 60px;
+}
+#nm{
+    color: red;
+}
+.intro h1{
+    font-size: 50px;
+}
+.contact{
+    text-decoration: none;
+    color: white;
+    padding: 5px 20px ;
+    background-image: none;
+    border-radius: 5px;
+    border: 3px solid ;
+    border-color: tomato;
+    font-weight: 200px;
+    
+}
+.intro h3{
+    font-size: 15px;
+    padding-left: 80px;
+    line-height: 10px;
+    padding-bottom: 40px;
 }
