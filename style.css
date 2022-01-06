@@ -86,3 +86,42 @@ span{
     width: 90%;
     margin:0% 3%;
 }
+.project{
+    margin-right: 10%;
+    margin-left: 6%;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+}
+.font{
+    font-family: 'Bree Serif', serif;
+    line-height: 25px;
+}
+.side{
+    width: 80%;
+}
+.side img{
+    width:60%;
+}
+footer{
+    font-family: 'Tangerine', cursive;
+    text-align: center;
+    color: white;
+    background-color: rgb(17, 17, 22);
+    background-size: 150px;
+    
+}
+#clr{
+    color: rgb(245, 55, 55);
+}
+.cap{
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+#six{
+    text-align: center;
+}
+.cap p{
+    font-size: 30px;
+}
